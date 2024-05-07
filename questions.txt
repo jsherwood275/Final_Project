@@ -1,5 +1,0 @@
-1.	What is the correlation between BMI and the likelihood of having heart disease?
-2.	How does smoking impact the prevalence of heart disease among different age groups?
-3.	Is there a significant difference in the occurrence of heart disease between males and females?
-4.	What is the association between alcohol consumption and the incidence of heart disease?
-5.	Are there any notable disparities in heart disease rates among different racial groups?
